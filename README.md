@@ -1,5 +1,7 @@
 ![image](https://github.com/user-attachments/assets/3ea35dd5-d46b-4fc7-9f9f-7a36fa95b38e)
+
 sơ đồ dự án thiết kế sơ đồ mạng cho công ty vừa và nhỏ
+
 Cấu hình IP
 IP 172.18.0.2/30 được sử dụng cho Router0
 IP 172.18.0.21/30 được sử dụng cho Router1
